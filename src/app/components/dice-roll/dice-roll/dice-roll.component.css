@@ -1,0 +1,11 @@
+.diceRollMain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  border: 1px solid black;
+  width: 97%;
+  height: 300px;
+  border-radius: 5px;
+  font-size: 350px;
+}

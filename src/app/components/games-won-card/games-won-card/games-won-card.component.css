@@ -1,0 +1,11 @@
+.scoreCard {
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 10px;
+}

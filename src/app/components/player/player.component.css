@@ -1,0 +1,18 @@
+.diceMain {
+  height: 65vh;
+  width: 47.5vw;
+  border: 2px solid black;
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px lightgray;
+}
+
+.header {
+  text-align: center;
+  width: 100%;
+  font-size: xx-large;
+  background-color: lightgray;
+  color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
